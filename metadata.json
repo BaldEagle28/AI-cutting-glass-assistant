@@ -1,0 +1,5 @@
+{
+  "name": "AI Glass Cutting Assistant",
+  "description": "An application that uses AI to analyze glass cutting orders from an image, extract dimensions, and calculate the most optimal cutting plan to minimize waste.",
+  "requestFramePermissions": []
+}
